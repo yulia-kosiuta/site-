@@ -1,0 +1,81 @@
+body{
+    
+    background-image: url(img/image.png);
+    background-repeat: no-repeat;
+    background-size: 100% 1000px;
+    
+}
+h1{
+    color: #fff;
+    text-shadow: 3px 3px 5px;
+    text-align: center;
+    font-size: 40px;
+
+}
+h2{
+    color: #fff;
+    text-shadow: 2px 2px 2px;
+    text-align: center;
+}
+.line{
+    background-color: #fff;
+    height: 30px;
+    width: 2px;
+    position: relative;
+    left:50%;
+}
+.line_one{
+    background-color: #fff;
+    height: 2px;
+    width: 500px;
+    position: relative;
+    left: 30%;
+}
+.line_two{
+    background-color: #fff;
+    height: 30px;
+    width: 2px;
+    position: relative;
+    left:30%;
+}
+.line_three{
+    background-color: #fff;
+    height: 30px;
+    width: 2px;
+    position: relative;
+    left:49.8%;
+}
+.line_four{
+    background-color: #fff;
+    height: 30px;
+    width: 2px;
+    position: relative;
+    left:70.3%;
+}
+.display{
+display: flex;
+}
+.line_two2{
+position: relative;
+    left:24%;
+    width: 150px;
+    text-align: center;
+}
+.line_three3{
+position: relative;
+    left:32%;
+    width: 150px;
+    text-align: center;
+}
+.line_four4{
+position: relative;
+    left:40%;
+    width: 150px;
+    text-align: center;
+}
+.display_two{
+display: flex;
+}
+.display_two div{
+color: #fff;
+}
